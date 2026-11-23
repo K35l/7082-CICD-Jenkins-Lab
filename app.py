@@ -1,6 +1,6 @@
 # app.py
 def main():
-    print("Hello, Jenkins!")
+    print("Jenkins trigger test")
 
 if __name__ == "__main__":
     main()
